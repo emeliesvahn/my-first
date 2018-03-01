@@ -36,3 +36,14 @@ input {
 .background {
   background-color: #FFB6B9;
 }
+
+.resultSection {
+  height: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 35px;
+  font-family: sans-serif;
+  letter-spacing: 2px;
+  font-weight: lighter;
+}
